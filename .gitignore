@@ -6,3 +6,5 @@ cli
 *.so
 *.dylib
 *.dll
+
+*.v~
